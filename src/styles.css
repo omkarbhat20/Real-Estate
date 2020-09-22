@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+.footer{
+    background-color: black;
+    color: white;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    }
+    .boxShadow{
+        box-shadow: 10px 10px 5px #aaaaaa;
+    }
+    .marTop40{
+        margin-top: 40px;
+    }
+    .marBottom40{
+        margin-bottom: 40px;
+    }
+    .colGray{
+        color: gray;
+    }
+    .marTop20{
+        margin-top: 20px;
+    }
+    .alignCenter{
+        text-align: center;
+    }
